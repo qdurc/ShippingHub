@@ -1,0 +1,17 @@
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\bin\Debug\net6.0-windows\Ejercicio Práctico S6.exe
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\bin\Debug\net6.0-windows\Ejercicio Práctico S6.deps.json
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\bin\Debug\net6.0-windows\Ejercicio Práctico S6.runtimeconfig.json
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\bin\Debug\net6.0-windows\Ejercicio Práctico S6.dll
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\bin\Debug\net6.0-windows\Ejercicio Práctico S6.pdb
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.csproj.AssemblyReference.cache
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio_Práctico_S6.Form1.resources
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.csproj.GenerateResource.cache
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.AssemblyInfoInputs.cache
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.AssemblyInfo.cs
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.csproj.CoreCompileInputs.cache
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.dll
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\refint\Ejercicio Práctico S6.dll
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.pdb
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\Ejercicio Práctico S6.genruntimeconfig.cache
+C:\Users\eduardocolon\source\repos\Ejercicio Práctico S6\Ejercicio Práctico S6\obj\Debug\net6.0-windows\ref\Ejercicio Práctico S6.dll
